@@ -1,0 +1,50 @@
+Referente ao dia 09/09
+
+Vendedor: EUR¡PEDES
+Cliente: 08849
+Erro: Não salvou orçamento no SIAC
+
+Vendedor: ADALBERTO
+Cliente: 24003
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: PAULO HENRIQUE
+Cliente: 24020
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: VALERIA DA COST
+Cliente: 24094
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: VALQUISLEY
+Cliente: 24103
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: VALQUISLEY
+Cliente: 27411
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: KAIO VINICIUS
+Cliente: 27460
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: ALEXSANDER
+Cliente: 27620
+Erro: Não enviou orçamento no grupo
+
+Vendedor: VALQUISLEY
+Cliente: 28455
+Erro: Não enviou orçamento no grupo
+
+Vendedor: HUMBERTO JOSE
+Cliente: I1531
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: ADALBERTO
+Cliente: I1554
+Erro: Não enviou orçamento no grupo e não salvou orçamento no SIAC
+
+Vendedor: ALEXSANDER
+Cliente: I2172
+Erro: Não enviou orçamento no grupo
+

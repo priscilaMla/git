@@ -1,0 +1,9 @@
+uso do bi de aumento de preço 
+
+- tem a planilha "fechados" que são os valores do p_venda atual, o novo preço do produto e a data que rodamos isso
+
+- os produtos que quando atualizarmos o bi tiveram alteração no p_venda mas não é igual ao novo preço da "fechados" significa que não tiveram alteração ainda então apareceram como "aguardando alteração" e os que o p_venda novo deles for igual ao novo preço da tabela "fechados" irão aparecer como "já alteramos"
+
+- depois de fazer alterações em preços de produtos clicar no botão que atualiza a planilha "fechados"  com o novo preço deles
+  
+- quando precisarmos voltar para ver o preço que estava quando subimos o preço, teremos a planilha "fechados" que não sofre quando alteramos o bi 
